@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Signals From Mars</string>
+
+    <string name="title_image_desc">Signals From Mars title image</string>
+    <string name="start_button">START YOUR ADVENTURE</string>
+    <string name="name_edit_textview_hint">Enter Your Name</string>
+</resources>
